@@ -1,0 +1,1 @@
+# sasadev-next-static
